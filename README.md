@@ -1,4 +1,6 @@
 # deep-interest-validator
+![Static Badge](https://img.shields.io/badge/version-1.0-blue)
+
 Welcome to the Deep Interest Validator!
 
 This program logs in to [HackerNews](https://news.ycombinator.com/news) using the credentials that you specify, and validate that the first several articles are properly sorted using [Playwright](https://playwright.dev/). In addition to this, among those articles, articles that are considered "deeply interesting" are upvoted using the account credentials that you give.
