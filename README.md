@@ -1,3 +1,7 @@
+<p align="center">
+<img width="256" alt="Deep Interest Validator Logo" src="images/logo.png" />
+</p>
+
 # deep-interest-validator
 ![Static Badge](https://img.shields.io/badge/version-1.0-blue)
 
