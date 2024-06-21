@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@axe-core/playwright": "^4.9.1",
+    "cohere-ai": "^7.10.6",
+    "playwright": "^1.44.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.14.7"
+  },
+  "name": "deep-interest-validator",
+  "description": "Scans HackerRank website for deeply interesting articles using Playwright and Cohere",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "npx playwright test --workers=1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudydaiyz/deep-interest-validator.git"
+  },
+  "author": "Kylan Duncan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloudydaiyz/deep-interest-validator/issues"
+  },
+  "homepage": "https://github.com/cloudydaiyz/deep-interest-validator#readme"
+}
