@@ -39,6 +39,7 @@ From there, you have a couple of options:
 If I want to continue this project in the future, I would add:
 - support for the `analyze page` test
 - functionality to automatically create a new HackerNews account
+- adding a frontend
 
 ## Technology used
 Programming language(s): JavaScript
